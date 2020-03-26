@@ -1,0 +1,57 @@
+
+
+
+.div2{
+    height: 150px;
+    width: 300px;
+    margin-left: 700px;
+    margin-right: 500px;
+    
+}
+
+.div{
+    
+    align-content: center;
+    
+}
+
+.timer{
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.bloc{
+   
+    border-radius: 10px;
+    width: 300px;
+  height: 300px;
+  margin-left: 550px;
+  margin-right: 500px;
+  border-style: double;
+  border-color: darkblue;
+  
+}
+
+.time{
+    font-size: 40px;
+    color: darkblue;
+    text-indent: 1px;
+}
+
+.buttons{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.bouton{
+    width: 100px;
+    height: 50px;
+}
